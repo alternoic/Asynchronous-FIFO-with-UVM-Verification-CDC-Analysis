@@ -11,7 +11,7 @@
 
 *A production-grade, fully parameterized Asynchronous FIFO design verified with a complete UVM 1.2 testbench, formal SVA properties, and CDC-specific coverage — built from first principles.*
 
-**[▶ Run on EDA Playground](#)** ← *(paste your EDA Playground link here)*
+
 
 </div>
 
