@@ -1,3 +1,4 @@
+
 // =============================================================================
 // File        : fifo_seq_item.sv
 // Project     : Asynchronous FIFO with CDC Verification
